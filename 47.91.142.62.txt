@@ -1,0 +1,32 @@
+root	---	KeYpZrZx
+
+aff5	---	www.ykggl.com	--数据库--	aff5
+
+old	---	www.dh10001.com	--数据库--	aff2
+
+ykds999	---	www.ykds999.com	--数据库--	web
+
+build	---	www.ykhygl.cn	--数据库--	aff_bak
+
+aff2	---	www.ykglxt.com	--数据库--	aff22
+
+
+
+
+
+
+内网IP：
+10.0.8.172 
+
+公网IP：
+122.14.198.146 
+
+密码：Yah00000000
+10:59:38
+
+内网IP：
+10.0.8.55 
+
+公网IP：
+122.14.199.74 
+
