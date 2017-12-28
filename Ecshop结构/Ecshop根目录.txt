@@ -1,0 +1,21 @@
+Ecshop根目录/
+        |
+        |->其它目录
+        |->themes
+                |->例:default (模板项目目录)
+                                |->images                             (模板图片目录)
+                                |->library                      (模板库目录)
+                                |-screenshot.png                   (模板预览图)
+                                |-style.css                                (模板所使用样式表)
+                                |-article.dwt                        (阅读文章)
+                                |-article_cat.dwt                (文章列表)
+                                |-category.dwt                        (分类列表)
+                                |-compare.dwt                        (商品比较)
+                                |-gallery.dwt                        (商品图片)
+                                |-goods.dwt                        (商品)
+                                |-index.dwt                        (商城首页)
+                                |-respond.dwt                        (支付)
+                                |-secarch_result.dwt        (搜索结果)
+                                |-shopping_flow.dwt        (购物流程)
+                                |-snatch.dwt                        (夺宝奇兵)
+                                |-user.dwt                                (用户中心)
